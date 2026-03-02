@@ -38,7 +38,6 @@ __pycache__
 /user.css
 /venv
 /webui-user.bat
-/webui-user.sh
 /webui.settings.bat
 coverage.xml
 huggingface_space_mirror/
