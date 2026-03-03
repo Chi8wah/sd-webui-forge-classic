@@ -22,8 +22,8 @@ show_stdout_stderr() {
 
     echo ""
     echo "Launch Unsuccessful! Exiting..."
-    echo "Press any key to continue..."
-    read -n 1 -s -r
+    # echo "Press any key to continue..."
+    # read -n 1 -s -r
     exit "$exit_code"
 }
 
@@ -115,6 +115,6 @@ while true; do
     fi
 done
 
-echo "Press any key to continue..."
-read -n 1 -s -r
+# echo "Press any key to continue..."
+# read -n 1 -s -r
 exit 0

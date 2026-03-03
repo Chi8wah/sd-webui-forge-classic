@@ -4,7 +4,7 @@
 # export GIT=""
 # export VENV_DIR=""
 
-export COMMANDLINE_ARGS="--uv --port 9880 --cuda-malloc --listen --sage --flash --nunchaku"
+export COMMANDLINE_ARGS="--uv --port 9880 --cuda-malloc --listen --sage --flash"
 
 # --xformers --sage --uv
 # --pin-shared-memory --cuda-malloc --cuda-stream
